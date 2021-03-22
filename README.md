@@ -1,7 +1,9 @@
+![trial](assets/pwn.gif)
+
 # pwn
 have your password pwned on databreach ? donot worry you can get it is pawned or not with this python script
 Pwn is a python script to check if you have a password that has been compromised in a data breach andcheck whether your passwords were leaked during one of the many breaches of online services.
-![trial](assets/pwn.gif)
+
 
 ## Git Installation
 ```
