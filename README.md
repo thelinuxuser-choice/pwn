@@ -13,8 +13,11 @@ $ git clone https://github.com/thelinuxuser-choice/pwn
 # change the working directory to Pwned
 $ cd Pwn
 
-# install the requirements
+# install the requirements 
 $ pip3 install -r requirements.txt
+
+# or just type this and install the requirements 
+$ pip3 install requests
 ```
 
 ## Usage
